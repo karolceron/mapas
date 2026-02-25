@@ -9,3 +9,5 @@ Passo 2. Ler o capítulo 2 até a página 71.
 Passo 3. (Para quem tem computador próprio). Fazer o download do QGIS (https://qgis.org/download/) (Long-term release) e instalar no seu computador.
 
 Passo 4. Fazer o download dos dados geoespaciais
+
+Passo 5. Prestar atenção na explicação e mandar bala!
