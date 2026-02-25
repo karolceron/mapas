@@ -8,6 +8,6 @@ Passo 2. Ler o capítulo 2 até a página 71.
 
 Passo 3. (Para quem tem computador próprio). Fazer o download do QGIS (https://qgis.org/download/) (Long-term release) e instalar no seu computador.
 
-Passo 4. Fazer o download dos dados geoespaciais (https://github.com/karolceron/mapas/tree/Dados-1)
+Passo 4. (Para quem tem computador próprio) Fazer o download dos dados geoespaciais (https://github.com/karolceron/mapas/tree/Dados-1)
 
-Passo 5. Prestar atenção na explicação e mandar bala!
+Passo 5. (No dia da oficina) Prestar atenção na explicação e mandar bala!
